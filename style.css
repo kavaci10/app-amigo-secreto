@@ -61,6 +61,9 @@ body {
     font-weight: 900;
     font-style: italic;
     color: var(--color-white);
+    text-align: center;  /* Centra el título */
+    width: 100%;         /* Ocupa todo el ancho del contenedor */
+    margin-bottom: 20px; /* Espacio entre título e imagen */
 }
 
 .section-title {
