@@ -160,3 +160,36 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/* Imagen principal responsive */
+.header-banner img {
+    width: 80%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Ajuste para pantallas más pequeñas (móviles) */
+@media (max-width: 768px) {
+    .header-banner img {
+        width: 90%;
+        max-width: 250px;
+    }
+
+    .main-title {
+        font-size: 36px; /* Ajusta título para móvil */
+    }
+}
+
+/* Ajuste para pantallas muy pequeñas */
+@media (max-width: 480px) {
+    .header-banner img {
+        width: 95%;
+        max-width: 200px;
+    }
+
+    .main-title {
+        font-size: 28px;
+    }
+}
