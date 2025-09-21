@@ -1,3 +1,4 @@
+````
 # 🎁 Amigo Secreto
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/kavaci10/app-amigo-secreto)
@@ -86,9 +87,7 @@ Puedes abrir un **issue** o enviar un **pull request** con mejoras.
 
 Este proyecto está bajo la licencia **MIT**.
 
-```
 
 ---
 
 
-```
