@@ -1,4 +1,3 @@
-````
 # 🎁 Amigo Secreto
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/kavaci10/app-amigo-secreto)
@@ -41,7 +40,7 @@ Prueba la app directamente en tu navegador:
 1. Clona el repositorio:  
    ```bash
    git clone https://github.com/kavaci10/app-amigo-secreto.git
-````
+
 
 2. Abre el archivo `index.html` en tu navegador.
 3. ¡Listo! Ahora puedes empezar a agregar nombres y sortear.
